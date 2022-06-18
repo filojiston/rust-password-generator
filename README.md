@@ -11,4 +11,8 @@ available parameters:
 
 your password will be generated of length between min_length and max_length and printed out to the console.
 
+you can use the given dockerfile for building a small docker image. it's just a rust standalone binary. you can follow those instructions like me:
+
+https://bxbrenden.github.io
+
 i'm new to rust, so feel free to contribute if you find any errors. suggestions and improvements are always welcome, too.
